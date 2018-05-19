@@ -1,0 +1,16 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1mBuilding maven-start 1.0[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-dependency-plugin:2.8:tree[m [1m(default-cli)[m @ [36mmaven-start[0;1m ---[m
+[[1;34mINFO[m] clinic.programmming:maven-start:jar:1.0
+[[1;34mINFO[m] \- org.apache.commons:commons-lang3:jar:3.7:compile
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time: 0.808 s
+[[1;34mINFO[m] Finished at: 2018-05-19T01:15:18+02:00
+[[1;34mINFO[m] Final Memory: 14M/215M
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
